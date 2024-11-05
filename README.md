@@ -3,7 +3,7 @@
 This project detects ransomware attacks using machine learning (ML) and deep learning (DL) algorithms by analyzing processor and disk usage data.
 
 ## Dataset
-The dataset used in this project is `hpc_io_data.csv`, which contains processor and disk usage metrics labeled as either **Benign** or **Ransomware**.
+The dataset used in this project is `ransomware_data.csv`, which contains processor and disk usage metrics labeled as either **Benign** or **Ransomware**.
 
 ## Algorithms Used
 - Support Vector Machine (SVM)
